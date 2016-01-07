@@ -10,21 +10,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailToWIBug.Test", "MailToWIBug.Test\MailToWIBug.Test.csproj", "{780B7A4F-8145-4362-A240-BDE0DEFC6BA7}"
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 4
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://tfsfarm.almaviva.it:8080/tfs/almaviva03
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = MailToWIBug\\MailToWIBug.csproj
-		SccProjectName1 = MailToWIBug
-		SccLocalPath1 = MailToWIBug
-		SccProjectUniqueName2 = MailToWIBug.DebugLauncher\\MailToWIBug.DebugLauncher.csproj
-		SccProjectName2 = MailToWIBug.DebugLauncher
-		SccLocalPath2 = MailToWIBug.DebugLauncher
-		SccProjectUniqueName3 = MailToWIBug.Test\\MailToWIBug.Test.csproj
-		SccProjectName3 = MailToWIBug.Test
-		SccLocalPath3 = MailToWIBug.Test
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
